@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function(){
 
 
@@ -33,46 +34,4 @@ function setDate()
 	}
 }
 setInterval(setDate, 1000);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
 });
